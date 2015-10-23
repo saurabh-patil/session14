@@ -10,10 +10,6 @@ Readme file is being tested in Git session.
 #Hello
 #12 Oct
 #Hello Again
-<<<<<<< HEAD
 #hello once again again
-=======
 #Harshad Committed
 #hello once again
-
->>>>>>> a2421041e91fcee81dbf80074763b04bf833380c
