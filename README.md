@@ -23,3 +23,5 @@ Readme file is being tested in Git session.
 #This is session with 28 DEC 2015 Batch
 
 #This is first assignment
+
+#This is second of Session of 28 DEC 2015 Batch
