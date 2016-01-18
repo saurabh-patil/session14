@@ -29,5 +29,3 @@ Readme file is being tested in Git session.
 #This is second assignment
 
 #Hello guys, this is amazing batch
-#this is me
-hlo this mohit.
