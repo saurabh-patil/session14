@@ -26,6 +26,6 @@ Readme file is being tested in Git session.
 
 #This is second of Session of 28 DEC 2015 Batch
 
-#This is second assignment
 
-#Hello guys, this is amazing batch
+
+
