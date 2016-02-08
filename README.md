@@ -34,3 +34,5 @@ Readme file is being tested in Git session.
 #3 feb 2016
 
 #Hello guys, we are done with the sessions
+
+#Author change
