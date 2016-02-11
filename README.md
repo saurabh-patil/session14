@@ -41,11 +41,15 @@ Readme file is being tested in Git session.
 
 #No Assignments has been done by the batch 1st Feb.
 
-<<<<<<< HEAD
+
 #Assignment completed.
 =======
 #Mahadev
 >>>>>>> 89195720652087f05b723997e2331535eb17aa04
 
+<<<<<<< HEAD
 #Hello guys, good morning.. - prasanna
 
+=======
+# Hi everyone
+>>>>>>> 336b5d02a796aeb6586bebe0559eec6ce0a50972
