@@ -60,15 +60,5 @@ Readme file is being tested in Git session.
 Prepare the exam....
 
 
-#Hello
-
-#Let's Go For Party
-
-#Good Morning to all
-
-#Good Night 
-
-
-
 
 
