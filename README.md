@@ -56,8 +56,7 @@ Readme file is being tested in Git session.
 
 #Hello, today we are having pizza party.
 
-
-Prepare the exam....
+#batch 03 March 2016.
 
 
 
