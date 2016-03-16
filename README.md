@@ -69,6 +69,4 @@ I have written this time.
 Some content added.
 Some more content.
 
-Updated by kush
-
-upadted by shubham
+Updated at 7:36 pm
