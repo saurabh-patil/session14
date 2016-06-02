@@ -99,3 +99,4 @@ Updated by KK
 
 #updated by amit
 #This session contains the pull, conflicts.
+#Conflict example after committing changes in local repository
