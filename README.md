@@ -30,6 +30,7 @@ Readme file is being tested in Git session.
 #This is second of Session of 28 DEC 2015 Batch
 
 
+
 #Hello guys, this is amazing batch
 
 #Batch 25 JAN 2016.
@@ -93,3 +94,5 @@ Updated by KK
 #Taking Session for 28 March 2016 Batch
 
 #Taking Session for 09 May 2016 Batch
+
+#This is second session of 09 May 2016 Batch
