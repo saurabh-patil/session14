@@ -103,3 +103,5 @@ Updated by KK
 #Conflict example after committing changes in local repository
 
 This work is done by anup
+
+#30rth May batch session.
