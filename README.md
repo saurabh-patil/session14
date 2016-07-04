@@ -4,7 +4,6 @@
 # Hello Everyone
 #Abdul and Jagdish
 Tested and Authored by Jagdish by jagdish
-<<<<<<< HEAD
 Tested and Authored by Ajit, Harish and Tushar
 Tested by tushar............................
 Hello this is not tested well
@@ -109,3 +108,5 @@ This work is done by anup
 #Anonymous Batch
 
 #Batch 6th June
+
+#Session with Sudhir Roy.
