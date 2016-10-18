@@ -130,3 +130,5 @@ This work is done by anup
 #Session with 5 Sep. 2016 batch .
 
 #Session with 26 Sep. 2016 batch .
+
+#Session with 3rd Oct. 2016 batch.
